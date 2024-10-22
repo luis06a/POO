@@ -1,0 +1,32 @@
+[
+    {
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuestas": {
+            "A": "Berlín",
+            "B": "Madrid",
+            "C": "París",
+            "D": "Roma"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuestas": {
+            "A": "Amazonas",
+            "B": "Nilo",
+            "C": "Yangtsé",
+            "D": "Mississippi"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿En qué año llegó el hombre a la luna?",
+        "respuestas": {
+            "A": "1965",
+            "B": "1969",
+            "C": "1972",
+            "D": "1980"
+        },
+        "respuesta_correcta": "B"
+    }
+]
