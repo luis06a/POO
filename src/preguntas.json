@@ -28,5 +28,14 @@
             "D": "1980"
         },
         "respuesta_correcta": "B"
+    },
+    { "pregunta": "¿Quien conquisto america?",
+    "respuestas": {
+        "A": "Don quijote de la mancha",
+        "B": "Lola Lolita",
+        "C": "Cristobal Colon",
+        "D": "Luis Fonsi"
+        },
+        "respuesta_correcta": "C"
     }
 ]
